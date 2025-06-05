@@ -1,1 +1,63 @@
+you are assigned to submissions:
+submission_335869857:
+    https://cseweb.ucsd.edu/classes/sp25/cse253-a/a2/files/submission_335869857/ and
+    https://cseweb.ucsd.edu/classes/sp25/cse253-a/a2/videos/submission_335869857_presentation.mp4
+submission_335831267:
+    https://cseweb.ucsd.edu/classes/sp25/cse253-a/a2/files/submission_335831267/ and
+    https://cseweb.ucsd.edu/classes/sp25/cse253-a/a2/videos/submission_335831267_presentation.mp4
+submission_335062434:
+    https://cseweb.ucsd.edu/classes/sp25/cse253-a/a2/files/submission_335062434/ and
+    https://cseweb.ucsd.edu/classes/sp25/cse253-a/a2/videos/submission_335062434_presentation.mp4
+submission_335881428:
+    https://cseweb.ucsd.edu/classes/sp25/cse253-a/a2/files/submission_335881428/ and
+    https://cseweb.ucsd.edu/classes/sp25/cse253-a/a2/videos/submission_335881428_presentation.mp4
 
+submit your responses in a file named responses.txt in the form:
+
+{
+  "submission_335869857": 
+    [(score_out_of_two_for_Q1,  "short explanation of score"),  # Task 1, analysis
+     (score_out_of_two_for_Q2,  "short explanation of score"),  # Task 1, modeling
+     (score_out_of_two_for_Q3,  "short explanation of score"),  # Task 1, evaluation
+     (score_out_of_two_for_Q4,  "short explanation of score"),  # Task 1, discussion
+     (score_out_of_two_for_Q5,  "short explanation of score"),  # Task 1, musical quality (NOT GRADED)
+     (score_out_of_two_for_Q6,  "short explanation of score"),  # Task 2, analysis
+     (score_out_of_two_for_Q7,  "short explanation of score"),  # Task 2, modeling
+     (score_out_of_two_for_Q8,  "short explanation of score"),  # Task 2, evaluation
+     (score_out_of_two_for_Q9,  "short explanation of score"),  # Task 2, discussion
+     (score_out_of_two_for_Q10, "short explanation of score")], # Task 2, musical quality (NOT GRADED)
+  "submission_335831267": 
+    [(score_out_of_two_for_Q1,  "short explanation of score"),  # Task 1, analysis
+     (score_out_of_two_for_Q2,  "short explanation of score"),  # Task 1, modeling
+     (score_out_of_two_for_Q3,  "short explanation of score"),  # Task 1, evaluation
+     (score_out_of_two_for_Q4,  "short explanation of score"),  # Task 1, discussion
+     (score_out_of_two_for_Q5,  "short explanation of score"),  # Task 1, musical quality (NOT GRADED)
+     (score_out_of_two_for_Q6,  "short explanation of score"),  # Task 2, analysis
+     (score_out_of_two_for_Q7,  "short explanation of score"),  # Task 2, modeling
+     (score_out_of_two_for_Q8,  "short explanation of score"),  # Task 2, evaluation
+     (score_out_of_two_for_Q9,  "short explanation of score"),  # Task 2, discussion
+     (score_out_of_two_for_Q10, "short explanation of score")], # Task 2, musical quality (NOT GRADED)
+  "submission_335062434": 
+    [(score_out_of_two_for_Q1,  "short explanation of score"),  # Task 1, analysis
+     (score_out_of_two_for_Q2,  "short explanation of score"),  # Task 1, modeling
+     (score_out_of_two_for_Q3,  "short explanation of score"),  # Task 1, evaluation
+     (score_out_of_two_for_Q4,  "short explanation of score"),  # Task 1, discussion
+     (score_out_of_two_for_Q5,  "short explanation of score"),  # Task 1, musical quality (NOT GRADED)
+     (score_out_of_two_for_Q6,  "short explanation of score"),  # Task 2, analysis
+     (score_out_of_two_for_Q7,  "short explanation of score"),  # Task 2, modeling
+     (score_out_of_two_for_Q8,  "short explanation of score"),  # Task 2, evaluation
+     (score_out_of_two_for_Q9,  "short explanation of score"),  # Task 2, discussion
+     (score_out_of_two_for_Q10, "short explanation of score")], # Task 2, musical quality (NOT GRADED)
+  "submission_335881428": 
+    [(score_out_of_two_for_Q1,  "short explanation of score"),  # Task 1, analysis
+     (score_out_of_two_for_Q2,  "short explanation of score"),  # Task 1, modeling
+     (score_out_of_two_for_Q3,  "short explanation of score"),  # Task 1, evaluation
+     (score_out_of_two_for_Q4,  "short explanation of score"),  # Task 1, discussion
+     (score_out_of_two_for_Q5,  "short explanation of score"),  # Task 1, musical quality (NOT GRADED)
+     (score_out_of_two_for_Q6,  "short explanation of score"),  # Task 2, analysis
+     (score_out_of_two_for_Q7,  "short explanation of score"),  # Task 2, modeling
+     (score_out_of_two_for_Q8,  "short explanation of score"),  # Task 2, evaluation
+     (score_out_of_two_for_Q9,  "short explanation of score"),  # Task 2, discussion
+     (score_out_of_two_for_Q10, "short explanation of score")], # Task 2, musical quality (NOT GRADED)
+  "ranking": [list of the above submission IDs ordered from MOST EXCELLENT to LEAST EXCELLENT; entries should look like "submission_XXXXXXXXX", "submision_YYYYYYYYY", etc.]
+}
